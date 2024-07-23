@@ -1,6 +1,8 @@
 # Java_Package
-Package gives segregation based on the specification we want
+Package gives segregation based on the specification we want.
+
 In one Package,we can not create classes with same name
+
 In different packages, we can create class with same name
 Package should not start with '.' or special characters
 Com.dilsha.test
